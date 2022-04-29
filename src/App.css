@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+table,
+th,
+td {
+  border: 1px solid white;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 18px;
+}
+
+tr {
+  background-color: #282c34;
+  color: white;
+}
+
+th {
+  background-color: #61dafb;
+  color: black;
+  padding: 18px;
+}
